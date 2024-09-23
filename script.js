@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "HAPPY BIRTHDAY!";
   gif.src =
-"https://media2.giphy.com/media/4OPWdAK1jlLktpZ4WY/giphy.gif?cid=6c09b952ktydp9q33wzwbg5dz9slknyrnyv7az41jwbj9yld&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" ;
+"https://media4.giphy.com/media/RhZfZ7fc7FYlivxte3/giphy.gif?cid=6c09b952xixhibb1w5l5kbh20gyc3objqpozxpez8bffbjio&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  ;
 });
 
 noBtn.addEventListener("mouseover", () => {
