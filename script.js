@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "HAPPY BIRTHDAY!";
   gif.src =
-"https://tenor.com/uqAenGfjrnf.gif"    ;
+"https://tenor.com/en-GB/view/happy-birthday-celebrate-cat-grumpy-party-hat-gif-16827404667146187004" ;
 });
 
 noBtn.addEventListener("mouseover", () => {
